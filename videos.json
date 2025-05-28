@@ -2,7 +2,7 @@
   "peliculas": [
     {
       "titulo": "Your Name",
-      "imagen": "https://link-a-la-imagen.jpg",
+      "imagen": "https://image.tmdb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
       "sinopsis": "Dos jóvenes conectados por un extraño fenómeno...",
       "tipo": "pelicula",
       "video": "https://link-a-video.mp4"
@@ -11,7 +11,7 @@
   "series": [
     {
       "titulo": "Attack on Titan",
-      "imagen": "https://link-a-la-imagen2.jpg",
+      "imagen": "https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
       "sinopsis": "La humanidad lucha contra gigantes devoradores...",
       "tipo": "serie",
       "episodesPage": "https://pagina-de-capitulos.com/attack-on-titan"
