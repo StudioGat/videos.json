@@ -3,9 +3,17 @@
     {
       "titulo": "Your Name",
       "imagen": "https://image.tmdb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
+      "sinopsis": "Sin saberlo abrio la oierta del caos ,Ahora suzume...",
+      "tipo": "pelicula",
+      "video": "https://link-a-video.mp4"
+    },
+    {
+      "titulo": "Suzume",
+      "imagen": "https://image.tmdb.org/t/p/original/iUfWPVyuLA4wZ5EetHyyGsi25SF.jpg",
       "sinopsis": "Dos jóvenes conectados por un extraño fenómeno...",
       "tipo": "pelicula",
       "video": "https://link-a-video.mp4"
+      
     }
   ],
   "series": [
