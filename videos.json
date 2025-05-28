@@ -1,5 +1,20 @@
 {
-  "Naruto": "https://1a-1791.com/video/s8/2/6/O/X/Q/6OXQu.aaa.mp4",
-  "One Piece": "https://1a-1791.com/video/fwe1/9a/s8/2/F/a/u/-/Fau-v.aaa.mp4",
-  "Dragon Ball Z": "https://1a-1791.com/video/fwe2/d2/s8/2/m/D/C/-/mDC-v.aaa.mp4"
+  "peliculas": [
+    {
+      "titulo": "Your Name",
+      "imagen": "https://link-a-la-imagen.jpg",
+      "sinopsis": "Dos jóvenes conectados por un extraño fenómeno...",
+      "tipo": "pelicula",
+      "video": "https://link-a-video.mp4"
+    }
+  ],
+  "series": [
+    {
+      "titulo": "Attack on Titan",
+      "imagen": "https://link-a-la-imagen2.jpg",
+      "sinopsis": "La humanidad lucha contra gigantes devoradores...",
+      "tipo": "serie",
+      "episodesPage": "https://pagina-de-capitulos.com/attack-on-titan"
+    }
+  ]
 }
